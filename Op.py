@@ -5,7 +5,7 @@ import threading
 from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 
-BOT_TOKEN = '7759797980:AAHV-FKBXJT10q-d1AEYf0mpHmRubdrzQwE'
+BOT_TOKEN = '8150157942:AAGnuFbZEzN1lAyDmTkzyOpjGHVBxsXrZYI'
 ADMIN_ID = 8179218740
 
 user_data = {}
